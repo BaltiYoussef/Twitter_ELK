@@ -1,10 +1,4 @@
-# Projet de Recherche d’informations non structurées 
-
-#### Ce projet a été realisé avec 
-- Maxime Delerue
-- Thomas vendramini
-- Maxime charruyer
-
+# Projet de Recherche d’informations non structurées
 
 - Capture d'écran du dashboard generé avec Kibana
 ![alt text](/img/TableauDeBord.PNG)
