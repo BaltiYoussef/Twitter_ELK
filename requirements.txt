@@ -1,0 +1,7 @@
+sudo apt-get install python3-pip
+sudo apt-get install tmux
+python3 -m pip install -Iv tweepy==3.10.0
+python3 -m pip install elasticsearch
+python3 -m pip install textwrap3
+python3 -m pip install textblob-fr
+python3 -m pip install textblob
